@@ -1,0 +1,38 @@
+<catalog>
+    <book>
+        <author>Gambardella, Matthew</author>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+    </book>
+    <book>
+        <author>Ralls, Kim</author>
+        <title>Midnight Rain</title>
+        <genre>Fantasy</genre>
+        <newfield>Fantasy</newfield>
+    </book>
+    <book>
+        <author>Corets, Eva</author>
+        <title>Maeve Ascendant</title>
+        <genre>Fantasy</genre>
+    </book>
+    <book>
+        <author>Corets, Eva</author>
+        <title>Oberon's Legacy</title>
+        <genre>Fantasy</genre>
+    </book>
+    <book>
+        <author>Corets, Eva</author>
+        <title>The Sundered Grail</title>
+        <genre>Fantasy</genre>
+    </book>
+    <book>
+        <author>Randall, Cynthia</author>
+        <title>Lover Birds</title>
+        <genre>Romance</genre>
+    </book>
+    <book>
+        <author>Thurman, Paula</author>
+        <title>Splish Splash</title>
+        <genre>Romance</genre>
+    </book>
+</catalog>
